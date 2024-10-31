@@ -36,11 +36,7 @@
         "button"
       ],
       "settings": {
-<<<<<<< HEAD
         "image": "shopify://shop_images/gratisography-cool-cat-800x525.jpg",
-=======
-        "image": "shopify://shop_images/download.jpg",
->>>>>>> 754e204220a02ae4783afe4402e5f06fe0e4a80c
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
